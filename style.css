@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+  }
+  #body {
+      background-color: white;
+      color: white;
+  }
+  #header {
+      background-color: #272646;
+  }
+    .button{
+      background-color: #272646 !important;
+      color: white !important;
+    }
+    #main-wrapper p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18px;
+    }
+   .box {
+       background-color: #272646;
+       box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+       }
+    #example {
+        color: rgb(192, 157, 157);
+        font-size: 14px; 
+        font-style: italic;
+    }
+    #pos {
+        color: red;
+        font-size: 14px; 
+        font-style: italic; 
+    }
+    #audiosize {
+        height: 30px;
+    }
